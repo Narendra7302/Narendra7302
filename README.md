@@ -23,7 +23,7 @@ src="https://img.shields.io/github/followers/narendra7302?logo=github&style=for-
 
 # Badges 
 
-[![An image of @narendra7302's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/narendra7302)](https://holopin.io/@narendra7302)
+[![An image of @narendrashrivastav's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/narendrashrivastav)](https://holopin.io/@narendrashrivastav)
 
 <b>My GitHub Stats</b>
 
