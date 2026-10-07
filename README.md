@@ -142,3 +142,85 @@ I enjoy working at the intersection of electronics, hardware and software.
 `ESP8266` `Raspberry Pi` `Arduino` `IoT` `Electronics` `Embedded Systems`
 
 </details>
+
+---
+
+<h2>🧰 Technology Universe</h2>
+
+<p align="center">
+  A mix of industrial automation, software development, electronics and embedded systems.
+</p>
+
+<h3>⚙️ Industrial Automation & Control</h3>
+
+<p>
+  <a href="https://www.yokogawa.com/">
+    <img src="https://img.shields.io/badge/Yokogawa-CENTUM_VP-0B1F33?style=for-the-badge" alt="Yokogawa CENTUM VP">
+  </a>
+  <a href="https://www.yokogawa.com/">
+    <img src="https://img.shields.io/badge/DCS-Distributed_Control_System-0B1F33?style=for-the-badge" alt="DCS">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/PLC-Programmable_Logic_Controller-0B1F33?style=for-the-badge" alt="PLC">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/SCADA-Supervisory_Control-0B1F33?style=for-the-badge" alt="SCADA">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Instrumentation-Process_Control-0B1F33?style=for-the-badge" alt="Instrumentation">
+  </a>
+</p>
+
+<h3>💻 Programming & Software</h3>
+
+<p>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  </a>
+  <a href="https://firebase.google.com/">
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+  </a>
+</p>
+
+<h3>🔌 Embedded Systems & IoT</h3>
+
+<p>
+  <a href="https://www.espressif.com/en/products/socs/esp8266">
+    <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP8266">
+  </a>
+  <a href="https://www.raspberrypi.com/">
+    <img src="https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  </a>
+  <a href="https://www.arduino.cc/">
+    <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/IoT-Internet_of_Things-0B1F33?style=for-the-badge" alt="IoT">
+  </a>
+</p>
+
+<h3>🛠️ Development Tools</h3>
+
+<p>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  </a>
+</p>
